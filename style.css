@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(#444, #888);
+}
+
+.titulo {
+    text-align: center;
+    font-size: 35px;
+    margin: 25px;
+
+}
+
+.titulo2 {
+    text-align: center;
+    font-size: 27px;
+    margin: 55px;
+
+}
+
+.carrousel {
+    width: 40%;
+    margin: 0 auto;
+}
